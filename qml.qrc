@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GameObject.qml</file>
+        <file>MapField.qml</file>
+        <file>Player.qml</file>
+        <file>workerscript.js</file>
+        <file>res/rocket.png</file>
+        <file>res/spaceRocket.png</file>
+        <file>res/meteor1.png</file>
+        <file>res/fire.png</file>
+        <file>res/spaceRocket_moving.png</file>
+        <file>res/planet.png</file>
+        <file>res/hotplanet.png</file>
+        <file>AdviceElement.qml</file>
+    </qresource>
+</RCC>
